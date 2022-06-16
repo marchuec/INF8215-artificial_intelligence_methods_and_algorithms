@@ -1,0 +1,14 @@
+{
+    "openFiles": [
+        "nightmare.mzn",
+        "model.dzn"
+    ],
+    "openTab": 0,
+    "projectFiles": [
+        "model.dzn",
+        "nightmare.mzn"
+    ],
+    "selectedBuiltinConfigId": "org.gecode.gecode",
+    "selectedBuiltinConfigVersion": "6.3.0",
+    "version": 106
+}

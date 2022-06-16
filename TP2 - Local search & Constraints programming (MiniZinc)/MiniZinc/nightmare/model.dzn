@@ -1,0 +1,6 @@
+n = 5;
+
+left_vision = [2,1,3,2,3];
+right_vision = [3,4,1,3,2];
+up_vision = [2,1,3,2,2];
+down_vision = [3,4,2,1,2];

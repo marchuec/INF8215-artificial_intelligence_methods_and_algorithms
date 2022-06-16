@@ -1,3 +1,3 @@
-# INF8215-Classical_artificial_intelligence
+# INF8215-artificial_intelligence_methods_and_algorithms
 
-Classical AI course I did at Polytechnique Montreal in 2020.
+AI course I did at Polytechnique Montreal in 2020.
